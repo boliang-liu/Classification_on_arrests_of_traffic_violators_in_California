@@ -39,4 +39,4 @@ Final goal: Predict whether the violated driver or pedestrian will be arrested?
 
  # Model and Results
  
- <img src = './ex_image.png' height = 250>
+ <img src = './results.png' height = 250>
