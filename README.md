@@ -36,6 +36,8 @@ Final goal: Predict whether the violated driver or pedestrian will be arrested?
 - Step3: Write processed data parquet ready for model fitting back to S3
 - Step4: Machine Learning on AWS EMR
 
+ <img src = './pipeline.png' height = 250>
+
 
  # Model and Results
  
