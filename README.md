@@ -6,7 +6,7 @@
 
 Traffic stops:a temporary detention of a driver of a vehicle by police to investigate a possible crime or minor violation of law
 
-<img src = './Readme/fire.69.png' height = 250>
+<img src = './ex_image.png' height = 250>
  
  
 # Analytics Goals
